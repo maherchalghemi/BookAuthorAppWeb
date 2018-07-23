@@ -1,0 +1,17 @@
+E:\Projets\Projet DDD complet\PrototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+E:\Projets\Projet DDD complet\PrototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+E:\Projets\Projet DDD complet\PrototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+E:\Projets\Projet DDD complet\PrototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\tayssir74\Desktop\PrototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\tayssir74\Desktop\PrototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\tayssir74\Desktop\PrototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\tayssir74\Desktop\PrototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.pdb
+C:\Users\maho\Documents\Visual Studio 2013\Projects\PrototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.exe.config
+C:\Users\maho\Documents\Visual Studio 2013\Projects\PrototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.exe
+C:\Users\maho\Documents\Visual Studio 2013\Projects\PrototypeDDD\ConsoleApplication\bin\Debug\ConsoleApplication.pdb
+C:\Users\maho\Documents\Visual Studio 2013\Projects\PrototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.csprojResolveAssemblyReference.cache
+C:\Users\maho\Documents\Visual Studio 2013\Projects\PrototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.exe
+C:\Users\maho\Documents\Visual Studio 2013\Projects\PrototypeDDD\ConsoleApplication\obj\Debug\ConsoleApplication.pdb

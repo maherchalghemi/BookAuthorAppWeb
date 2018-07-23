@@ -1,0 +1,15 @@
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.Domain\bin\Debug\ProjetDDD.Domain.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.Domain\bin\Debug\ProjetDDD.Domain.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.dll
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.pdb
+E:\Projets\Projet DDD complet\PrototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.Domain\bin\Debug\ProjetDDD.Domain.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.Domain\bin\Debug\ProjetDDD.Domain.pdb
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.dll
+C:\Users\tayssir74\Desktop\PrototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.pdb
+C:\Users\maho\Documents\Visual Studio 2013\Projects\PrototypeDDD\ProjetDDD.Domain\bin\Debug\ProjetDDD.Domain.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\PrototypeDDD\ProjetDDD.Domain\bin\Debug\ProjetDDD.Domain.pdb
+C:\Users\maho\Documents\Visual Studio 2013\Projects\PrototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.csprojResolveAssemblyReference.cache
+C:\Users\maho\Documents\Visual Studio 2013\Projects\PrototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.dll
+C:\Users\maho\Documents\Visual Studio 2013\Projects\PrototypeDDD\ProjetDDD.Domain\obj\Debug\ProjetDDD.Domain.pdb
